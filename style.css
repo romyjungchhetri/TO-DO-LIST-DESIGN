@@ -1,0 +1,21 @@
+body {
+    background-color: #f7f7f7;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #new-task {
+    border-radius: 0;
+  }
+  
+  #add-btn {
+    border-radius: 0;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
